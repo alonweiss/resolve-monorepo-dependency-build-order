@@ -1,0 +1,14 @@
+{
+  "name": "resolve-monorepo-dependency-build-order",
+  "version": "1.0.0",
+  "description": "Creates an ordered build list from ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alon Weiss",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
